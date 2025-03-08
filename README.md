@@ -91,7 +91,7 @@ Bu proje, aşağıdaki Laravel kavramlarını öğrenmek için iyi bir başlang�
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/anil-altintas/laravel-eticaret-baslangic-kiti.git
+git clone [https://github.com/anil-altintas/laravel-eticaret-baslangic-kiti.git](https://github.com/anil-altintas/Laravel-E-Ticaret-Baslangic-Kiti.git)
 cd laravel-eticaret
 ```
 
