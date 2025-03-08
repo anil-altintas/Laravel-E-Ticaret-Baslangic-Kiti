@@ -91,7 +91,7 @@ Bu proje, aşağıdaki Laravel kavramlarını öğrenmek için iyi bir başlang�
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/kullanici/laravel-eticaret.git
+git clone https://github.com/anil-altintas/laravel-eticaret-baslangic-kiti.git
 cd laravel-eticaret
 ```
 
@@ -193,4 +193,4 @@ Bu proje [MIT lisansı](LICENSE) altında lisanslanmıştır.
 
 ## 📞 İletişim
 
-Sorularınız veya önerileriniz için [issues](https://github.com/kullanici/laravel-eticaret/issues) bölümünü kullanabilirsiniz.
+Sorularınız veya önerileriniz için [issues](https://github.com/anil-altintas/laravel-eticaret-baslangic-kiti/issues) bölümünü kullanabilirsiniz.
