@@ -193,4 +193,4 @@ Bu proje [MIT lisansı](LICENSE) altında lisanslanmıştır.
 
 ## 📞 İletişim
 
-Sorularınız veya önerileriniz için [issues](https://github.com/anil-altintas/laravel-eticaret-baslangic-kiti/issues) bölümünü kullanabilirsiniz.
+Sorularınız veya önerileriniz için [issues](https://github.com/anil-altintas/Laravel-E-Ticaret-Baslangic-Kiti/issues) bölümünü kullanabilirsiniz.
